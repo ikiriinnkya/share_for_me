@@ -1,6 +1,6 @@
 import math
 
-data = (1.0,1.0,0,0)
+data = (135.001,35.001,135.0,35.0)
 
 def get_distance_rad(goal_x,goal_y,present_x,present_y):
     LATI = 91141.288#north 35
